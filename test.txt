@@ -1,0 +1,1 @@
+This is a file exmple to practice Git and GitHub
